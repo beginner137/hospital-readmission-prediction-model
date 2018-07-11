@@ -1,4 +1,5 @@
-The source data is ADMISSIONS.csv and NOTEEVENTS.csv
+Project for Big Data Health Analytics CSE 6250
+The source data is ADMISSIONS.csv and NOTEEVENTS.csv from MIMIC III database
 
 
 

@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: Shenghua Xiang
+@author: dorisx
+
 """
 
 

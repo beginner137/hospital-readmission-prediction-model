@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Shenghua Xiang
+@author: dorisx
 """
 
 import pandas as pd
